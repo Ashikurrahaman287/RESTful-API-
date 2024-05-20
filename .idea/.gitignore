@@ -1,0 +1,8 @@
+# Default ignored files
+/../../RESTful API /.idea/shelf/
+/../../RESTful API /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../RESTful API /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../RESTful API /.idea/dataSources/
+/../../RESTful API /.idea/dataSources.local.xml
