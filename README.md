@@ -174,7 +174,7 @@ docker run -p 8080:8080 todo-api
 
 ## Contributing
 
-If you want to contribute to this project, feel free to submit issues or pull requests.
+If you want to contribute to this project, feel free to submit issues or pull requests. Ashik@spudblocks.com 
 
 ## License
 
